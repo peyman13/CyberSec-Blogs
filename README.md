@@ -12,4 +12,4 @@ When suggesting a new blog, please:
 
 ## License
 
-This list is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain.
+This list is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - public domain.
