@@ -9,7 +9,7 @@
 |5   |https://0xsp.com/|Offensive Security Research|
 |6   |https://williamknowles.io/|Red Team Techniques|
 |7   |https://fluxsec.red//|Malware Development|
-|8   |https://redteamer.tips/|Red Team Techniques|
+|8   |https://stmxcsr.com/|Red Team Techniques|
 |9   |https://shells.systems/|Offensive Tradecraft|
 |10   |https://redteamer.tips/|Red Team Techniques|
 |11   |https://shells.systems/|Offensive Tradecraft|
