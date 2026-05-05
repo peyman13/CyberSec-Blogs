@@ -20,6 +20,11 @@
 |16   |https://dirkjanm.io/|Azure Active Directory|
 |17   |https://www.wietzebeukema.nl/blog/|Red Team|
 |18   |https://decoder.cloud/|Red Team Techniques|
-|19   |https://s3cur3th1ssh1t.github.io/|
-
+|19   |https://s3cur3th1ssh1t.github.io/|Red Team Techniques|
+|20   |https://bytecode77.com/|Red Team|
+|21   |https://trickster0.github.io/|Red Team|
+|22   |https://cocomelonc.github.io/|Malware Development|
+|23   |https://eversinc33.com/|Malware Development|
+|24   |https://bad-jubies.github.io/|Red Team|
+|25   |https://xybytes.com/|Active Directory, Azure|
 
