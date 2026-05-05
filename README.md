@@ -7,9 +7,9 @@ A curated list of independent cybersecurity blogs covering threat intelligence, 
 |---------|------------------------|
 |Threat Intelligence   |https://attackthesoc.com/|
 |Red Team   |https://attackthesoc.com/|
-|Purple Team   |https://attackthesoc.com/|
+|Purple Team   |1|
 |Threat Hunting   |https://attackthesoc.com/|
-|Detection Engineering   |https://attackthesoc.com/|
+|Detection Engineering   |1|
 
 
 ## Contributing
