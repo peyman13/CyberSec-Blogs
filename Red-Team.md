@@ -29,3 +29,8 @@
 |25   |https://xybytes.com/|Active Directory, Azure|
 |26   |https://malacupa.com/|Cloud Security|
 |27   |https://blacksnufkin.github.io/|Malware Development|
+|28   |https://sud0ru.ghost.io/|Offensive Tradecraft|
+|29   |https://p0142.github.io/|Malware Development|
+|30   |https://jakewnuk.com/|Password Cracking|
+|31   |https://www.exandroid.dev/|Red Team|
+|32   |https://www.accidentalrebel.com/|AI|
