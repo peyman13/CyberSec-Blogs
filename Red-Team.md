@@ -27,4 +27,5 @@
 |23   |https://eversinc33.com/|Malware Development|
 |24   |https://bad-jubies.github.io/|Red Team|
 |25   |https://xybytes.com/|Active Directory, Azure|
-
+|26   |https://malacupa.com/|Cloud Security|
+|27   |https://blacksnufkin.github.io/|Malware Development|
