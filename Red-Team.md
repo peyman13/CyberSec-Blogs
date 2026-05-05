@@ -34,3 +34,24 @@
 |30   |https://jakewnuk.com/|Password Cracking|
 |31   |https://www.exandroid.dev/|Red Team|
 |32   |https://www.accidentalrebel.com/|AI|
+|33   |https://kuwaitist.github.io/|Red Team, Malware Development|
+|34   |https://unsigned-sh0rt.net/|Red Team|
+|35   |https://0xv1n.github.io/|Red Team|
+|36   |https://kr0tt.github.io/|Red Team|
+|37   |https://blog.cybershenanigans.space/|Red Team|
+|38   |https://mkiesel.ch/posts/|Red Team|
+|39   |https://blog.felixm.pw/|Red Team|
+|40   |https://pgj11.com/|Red Team|
+|41   |https://jellevergeer.com/|Red Team|
+|42   |https://www.bencteux.fr/|Red Team|
+|43   |https://hulkops.gitbook.io/blog|Red Team|
+|44   |https://print3m.github.io/|Red Team|
+|45   |https://jakobfriedl.github.io/|Red Team|
+|46   |https://embracethered.com/blog/|Red Team, AI|
+|47   |https://blog.offensive.af/|Red Team|
+|48   |https://ricardojoserf.github.io/|Red Team|
+|49   |https://badoption.eu/|Red Team|
+|50   |https://pre.empt.dev/|Red Team|
+|51   |https://simondotsh.com/|Red Team|
+|52   |https://www.legacyy.xyz/|Red Team|
+|53   |https://kyleavery.com/|Red Team, AI|
