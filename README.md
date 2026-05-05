@@ -3,7 +3,7 @@ A curated list of independent cybersecurity blogs covering threat intelligence, 
 
 ## Contributing
 
-If a blog you know is miscategorized — or if you maintain one of these blogs and want it listed differently — please open a PR or issue. Many of these authors publish across categories, so this list reflects judgment calls about primary focus.
+If a blog you know is miscategorized - or if you maintain one of these blogs and want it listed differently — please open a PR or issue. Many of these authors publish across categories, so this list reflects judgment calls about primary focus.
 
 When suggesting a new blog, please:
 1. Confirm it is actively maintained (or note if it is an archive of historical value)
