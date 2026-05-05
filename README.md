@@ -6,7 +6,7 @@ A curated list of independent cybersecurity blogs covering threat intelligence, 
 |Category     |Count               |
 |---------|------------------------|
 |Threat Intelligence   |1|
-|Red Team   |53|
+|Red Team   |54|
 |Purple Team   |1|
 |Threat Hunting   |6|
 |Detection Engineering   |1|
