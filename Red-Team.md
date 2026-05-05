@@ -10,12 +10,16 @@
 |6   |https://williamknowles.io/|Red Team Techniques|
 |7   |https://fluxsec.red//|Malware Development|
 |8   |https://stmxcsr.com/|Red Team Techniques|
-|9   |https://shells.systems/|Offensive Tradecraft|
-|10   |https://redteamer.tips/|Red Team Techniques|
-|11   |https://shells.systems/|Offensive Tradecraft|
-|12   |https://redteamer.tips/|Red Team Techniques|
-|13   |https://shells.systems/|Offensive Tradecraft|
-|14   |https://redteamer.tips/|Red Team Techniques|
-
+|9   |https://brmk.me/|Offensive Tradecraft|
+|10   |https://connormcgarr.github.io/|Exploit Development, Windows Internals|
+|11   |https://blog.orange.tw/|Vulnerability Research|
+|12   |https://idov31.github.io/|Red Team Techniques|
+|13   |https://mayfly277.github.io/|Active Directory|
+|14   |https://winternl.com/|Red Team Techniques|
+|15   |https://hausec.com/|Active Directory|
+|16   |https://dirkjanm.io/|Azure Active Directory|
+|17   |https://www.wietzebeukema.nl/blog/|Red Team|
+|18   |https://decoder.cloud/|Red Team Techniques|
+|19   |https://s3cur3th1ssh1t.github.io/|
 
 
