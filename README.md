@@ -1,6 +1,17 @@
 # CyberSec-Blogs
 A curated list of independent cybersecurity blogs covering threat intelligence, purple team, red team, threat hunting, and detection engineering. Most are personal blogs maintained by practitioners who publish original research, tradecraft, and tooling.
 
+# Categories
+
+|Category     |Count               |
+|---------|------------------------|
+|Threat Intelligence   |https://attackthesoc.com/|
+|Red Team   |https://attackthesoc.com/|
+|Purple Team   |https://attackthesoc.com/|
+|Threat Hunting   |https://attackthesoc.com/|
+|Detection Engineering   |https://attackthesoc.com/|
+
+
 ## Contributing
 
 If a blog you know is miscategorized - or if you maintain one of these blogs and want it listed differently — please open a PR or issue. Many of these authors publish across categories, so this list reflects judgment calls about primary focus.
