@@ -5,10 +5,10 @@ A curated list of independent cybersecurity blogs covering threat intelligence, 
 
 |Category     |Count               |
 |---------|------------------------|
-|Threat Intelligence   |https://attackthesoc.com/|
-|Red Team   |https://attackthesoc.com/|
+|Threat Intelligence   |1|
+|Red Team   |30|
 |Purple Team   |1|
-|Threat Hunting   |https://attackthesoc.com/|
+|Threat Hunting   |3|
 |Detection Engineering   |1|
 
 
