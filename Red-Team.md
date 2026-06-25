@@ -65,3 +65,4 @@
 |62 | https://0xpat.github.io | Malware Development, Offensive Security |
 |63 | https://dominicbreuker.com | Password Cracking, Security Research |
 |64 | https://0xdbgman.github.io | Red Team / Offensive Security |
+|65 | https://hackmosphere.fr | Red Team / Offensive Security |
